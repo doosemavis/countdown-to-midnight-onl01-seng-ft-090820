@@ -1,4 +1,3 @@
-
-
-def countdown
+def countdown(interger)
+  
 end
