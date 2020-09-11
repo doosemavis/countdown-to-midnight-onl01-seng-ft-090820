@@ -1,4 +1,4 @@
-x = 10
+x = 12
 while x > 0
   puts "#{x}"
   x -= 1
