@@ -5,7 +5,7 @@ while x > 0
 end
 
 
-def countdown
+def countdown(number)
   puts "HAPPY NEW YEAR!"
 end
 
